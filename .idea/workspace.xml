@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="412dbc7e-e428-40e2-8caf-8b04efa36a39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/ResponsiveDesign/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/ResponsiveDesign/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Css/stylesego.css" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Css/stylesego.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Galery.html" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Galery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/Audi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/Audi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/Beach.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/Beach.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/Bmw.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/Bmw.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/Carlogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/Carlogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/Lexus.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/Lexus.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/Logo.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/Logo.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/Logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/Logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/Logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/Logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/Range.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/Range.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/Rx350.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/Rx350.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/crv1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/crv1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/crvlatest.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/crvlatest.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/e280.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/e280.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/e350.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/e350.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/jeep.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/jeep.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/lxright.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/lxright.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/lxscroll.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/lxscroll.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/range.webp" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/range.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/ranger1.png" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/ranger1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/rangeright.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/rangeright.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/rangescroll.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/rangescroll.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/rx350.webp" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/rx350.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/rxright.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/rxright.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images/rxscroll.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Images/rxscroll.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/segobay.html" beforeDir="false" afterPath="$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/segobay.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +42,7 @@
     <session id="632863544">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="24" />
+          <entry key="project.closed" value="25" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="7" />
           <entry key="project.open.time.2" value="6" />
@@ -24,14 +52,15 @@
           <entry key="project.open.time.38" value="3" />
           <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.85" value="1" />
-          <entry key="project.opened" value="25" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="4" />
-          <entry key="html" value="35" />
+          <entry key="css" value="5" />
+          <entry key="html" value="37" />
           <entry key="iml" value="1" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
@@ -41,8 +70,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="4" />
-          <entry key="HTML" value="35" />
+          <entry key="CSS" value="5" />
+          <entry key="HTML" value="37" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="6" />
           <entry key="XML" value="4" />
@@ -83,12 +112,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MITEVENINGCLASS/ResponsiveDesign/contacts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
+            <state relative-caret-position="1770">
               <caret line="118" column="58" selection-start-line="118" selection-start-column="58" selection-end-line="118" selection-end-column="58" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Galery.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Css/stylesego.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-312" />
           </provider>
         </entry>
       </file>
@@ -202,19 +243,6 @@
               <item name="mitevningclass" type="462c0819:PsiDirectoryNode" />
               <item name="MITEVENINGCLASS" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mitevningclass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mitevningclass" type="462c0819:PsiDirectoryNode" />
-              <item name="MITEVENINGCLASS" type="462c0819:PsiDirectoryNode" />
-              <item name="ResponsiveDesign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mitevningclass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mitevningclass" type="462c0819:PsiDirectoryNode" />
-              <item name="MITEVENINGCLASS" type="462c0819:PsiDirectoryNode" />
-              <item name="ResponsiveDesign" type="462c0819:PsiDirectoryNode" />
-              <item name="Css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -230,13 +258,15 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/MITEVENINGCLASS/ResponsiveDesign" />
-      <recent name="$PROJECT_DIR$/MITEVENINGCLASS/Introduction2/images" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/MITEVENINGCLASS/Introduction/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Images" />
+      <recent name="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html/Css" />
+      <recent name="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Html" />
+      <recent name="$PROJECT_DIR$/MITEVENINGCLASS/SegoBay" />
+      <recent name="$PROJECT_DIR$/MITEVENINGCLASS/ResponsiveDesign" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -285,17 +315,18 @@
       <workItem from="1570033421171" duration="545000" />
       <workItem from="1570444087512" duration="10010000" />
       <workItem from="1570458692406" duration="1255000" />
-      <workItem from="1570465597110" duration="478000" />
+      <workItem from="1570465597110" duration="1268000" />
+      <workItem from="1570541280944" duration="1364000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87943000" />
+    <option name="totallyTimeSpent" value="90097000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1024" height="741" extended-state="6" />
+    <frame x="0" y="-1" width="1024" height="741" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18404908" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18813907" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -308,7 +339,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -386,6 +417,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MITEVENINGCLASS/.idea/MITEVENINGCLASS.iml" />
+    <entry file="file://$PROJECT_DIR$/MITEVENINGCLASS/SegoBay/Galery.html" />
     <entry file="file://$PROJECT_DIR$/MITEVENINGCLASS/ResponsiveDesign/segobay.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4170">
@@ -402,6 +434,16 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MITEVENINGCLASS/ResponsiveDesign/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="118" column="58" selection-start-line="118" selection-start-column="58" selection-end-line="118" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Galery.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/MITEVENINGCLASS/ResponsiveDesign/Index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -438,11 +480,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MITEVENINGCLASS/ResponsiveDesign/contacts.html">
+    <entry file="file://$PROJECT_DIR$/MITEVENINGCLASS/MiamiMotors/Html/Css/stylesego.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="118" column="58" selection-start-line="118" selection-start-column="58" selection-end-line="118" selection-end-column="58" />
-        </state>
+        <state relative-caret-position="-312" />
       </provider>
     </entry>
   </component>
